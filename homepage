@@ -1,0 +1,63 @@
+html-----------
+<div class="header">
+    <div class="container">
+        <div class="navbar">
+
+            <nav>
+                <ul id="MenuItems heading1">
+                    <li><a href="index.html heading1">Home</a></li>
+                    <li><a href="product.html heading1">About Us</a></li>
+                    <li><a href="# heading1">Events</a></li>
+                    <li><a href="# heading1">Excome</a></li>
+                    <li><a href="account.html heading1">Gallery</a></li>
+                </ul>
+            </nav>
+
+        </div>
+        <div class="row">
+            <div class="col-2">
+                <h1 class="heading1">
+                    IGNITING PASSION FOR INSPIRING INNOVATION <br />
+
+                </h1>
+
+                <a href="#" target="_blank" rel="noopener noreferrer" class="btn">Explore Now →</a>
+            </div>
+            <div class="col-2">
+                <img src="https://e7.pngegg.com/pngimages/200/811/png-clipart-technology-high-tech-building-resource-tecnologia-computer-network-electronics.png" alt="" />
+            </div>
+        </div>
+    </div>
+</div>
+
+css------
+<div class="header">
+    <div class="container">
+        <div class="navbar">
+
+            <nav>
+                <ul id="MenuItems heading1">
+                    <li><a href="index.html heading1">Home</a></li>
+                    <li><a href="product.html heading1">About Us</a></li>
+                    <li><a href="# heading1">Events</a></li>
+                    <li><a href="# heading1">Excome</a></li>
+                    <li><a href="account.html heading1">Gallery</a></li>
+                </ul>
+            </nav>
+
+        </div>
+        <div class="row">
+            <div class="col-2">
+                <h1 class="heading1">
+                    IGNITING PASSION FOR INSPIRING INNOVATION <br />
+
+                </h1>
+
+                <a href="#" target="_blank" rel="noopener noreferrer" class="btn">Explore Now →</a>
+            </div>
+            <div class="col-2">
+                <img src="https://e7.pngegg.com/pngimages/200/811/png-clipart-technology-high-tech-building-resource-tecnologia-computer-network-electronics.png" alt="" />
+            </div>
+        </div>
+    </div>
+</div>
